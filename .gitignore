@@ -9,3 +9,6 @@ images/*
 *.json
 *.xls
 *.doc
+*.pyd
+*.exp
+*.lib
