@@ -7,3 +7,5 @@ images/*
 *.csv
 *.so
 *.json
+*.xls
+*.doc
