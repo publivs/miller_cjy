@@ -1,0 +1,9 @@
+.vscode/c_cpp_properties.json
+images/*
+*.zip
+*.xlsx
+*.pdf
+*.pyc
+*.csv
+*.so
+*.json
