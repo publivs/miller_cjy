@@ -2,3 +2,13 @@
 *.png
 *.doc
 *.xlsx
+*.parquet
+*.so
+*.lib
+*.obj
+*.txt
+*.pyd
+*.pyc
+*.pdf
+*.xls
+*.exp
